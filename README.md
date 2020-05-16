@@ -12,9 +12,9 @@
 <ol>
     딥러닝 등 머신러닝의 개념 + 기존 예시등 확인하기 밑에는 (참고할만한 링크입니다.)
     <blockquote>
-        <a href src="http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html">강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역) </a><br>
-        <a href src="http://www.ndsl.kr/ndsl/search/detail/article/articleSearchResultDetail.do?cn=DIKO0015374342">딥 러닝을 이용한 플레이어의 행동 기반 오토플레이 시스템에 관한 연구 </a><br>
-        <a href src="http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf">Deep Learning with Python e-book</a>
+        <a href="http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html">강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역) </a><br>
+        <a href="http://www.ndsl.kr/ndsl/search/detail/article/articleSearchResultDetail.do?cn=DIKO0015374342">딥 러닝을 이용한 플레이어의 행동 기반 오토플레이 시스템에 관한 연구 </a><br>
+        <a href="http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf">Deep Learning with Python e-book</a>
     </blockquote>
 
 
@@ -38,11 +38,11 @@ Linux 시스템(Windows에서는 Keras를 지원하지 않음, 만약 OpenAI를 
 <ol>
     OpenCV 등 영상 라이브러리, Tesseract-OCR의 사용법(매우 쉬움) (밑에는 참고할만한 링크입니다.)
     <blockquote>
-        <a href src="https://ko.wikipedia.org/wiki/%ED%85%8C%EC%84%9C%EB%9E%99%ED%8A%B8">tesseract -wiki</a><br>
-        <a href src="https://github.com/tesseract-ocr/tesseract">Tesseract Ocr(git hub main repository)</a><br>
-        <a href src="https://opencv-python.readthedocs.io/en/latest/doc/01.imageStart/imageStart.html">Open CV 이미지 다루기</a><br>
-        <a href src="http://pythonstudy.xyz/python/article/409-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%98%81%EC%83%81-%EC%B2%98%EB%A6%AC-OpenCV">파이썬-영상-처리-OpenCV</a><br>
-        <a href src="https://leembedded.tistory.com/22">OpenCV 특정 영역 인식(명함 인식 구현)</a>
+        <a href="https://ko.wikipedia.org/wiki/%ED%85%8C%EC%84%9C%EB%9E%99%ED%8A%B8">tesseract -wiki</a><br>
+        <a href="https://github.com/tesseract-ocr/tesseract">Tesseract Ocr(git hub main repository)</a><br>
+        <a href="https://opencv-python.readthedocs.io/en/latest/doc/01.imageStart/imageStart.html">Open CV 이미지 다루기</a><br>
+        <a href="http://pythonstudy.xyz/python/article/409-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%98%81%EC%83%81-%EC%B2%98%EB%A6%AC-OpenCV">파이썬-영상-처리-OpenCV</a><br>
+        <a href="https://leembedded.tistory.com/22">OpenCV 특정 영역 인식(명함 인식 구현)</a>
     </blockquote>
 </ol>
 
