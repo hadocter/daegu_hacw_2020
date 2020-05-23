@@ -48,7 +48,7 @@ Linux 시스템(Windows에서는 Keras를 지원하지 않음, 만약 OpenAI를 
 
 ### 준비물
 
-카메라(웹캠 등 이미지 입력이 가능한 장치), Python, opencv-python, tesseract-ocr
+카메라(웹캠 등 이미지 입력이 가능한 장치), Python, opencv-python, tesseract-ocr 
 -->
 
 
