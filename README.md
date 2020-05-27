@@ -21,7 +21,7 @@
 
 ### 준비물
 
-Linux 시스템(Windows에서는 Keras를 지원하지 않음, 만약 OpenAI를 사용한다면 Windows 사용가능), 딥러닝 라이브러리(OpenAI, Keras 등), 간단한 게임의 구현(스네이크, 핑퐁, 플래피 버드 등), CUDA, CUDNN 을 지원하는 NVIDIA 그래픽(선택)
+Linux 시스템(Windows환경은 귀찮음, 만약 OpenAI를 사용한다면 Windows 사용가능), 딥러닝 라이브러리(OpenAI, Keras 등), 간단한 게임의 구현(스네이크, 핑퐁, 플래피 버드 등), CUDA, CUDNN 을 지원하는 NVIDIA 그래픽(선택)
 
 
 
