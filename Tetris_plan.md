@@ -95,10 +95,20 @@
     DQN 등 일부 게임에 크게 효과있는 알고리즘은 논문상으로 제시되어 있으므로 바로 구현하기에는 아직 어려움이 클거 같다.
     <br>따라서 앞으로의 문제 해결 과정에서 필요하다고 생각하는 것을 나열해 보았습니다.
     <ul>
-      <li>머신러닝을 공부하며 얼마전에 찾은 유용하다고 생각되는 자료입니다. https://tensorflow.blog/%ec%bc%80%eb%9d%bc%ec%8a%a4-%eb%94%a5%eb%9f%ac%eb%8b%9d/ 이것을 보며 실제로 코드로서 어떻게 구현되는지를 공부하면 좋겠습니다.</li>
+    
       <li>Cart-Pole, MNIST 데이터셋으로 숫자인식등 머신러닝으로 해결할수 있는 비교적 간단한 문제를 해결하여, 그 과정과 코드, 또한 코드의 특정부분을 수정하면서 변경된 결과들을 발표하고 의논하면 좋겠습니다.</li>
+      <li>머신러닝등 큰양의 다차원 데이터를 다루거나, 벡터연산등이 필수적인 분야에서 약방에 감초같은 존재인 NUMPY라는 라이브러리가 있습니다. 하지만 실제 NUMPY를 사용한 코드를 보면 약간 난해하거나 햇갈리는 부분이 꽤 있었습니다. 따라서 큰 목표를 위해 NUMPY와 데이터형, 벡터에 대한 학습은 꽤 유용할 것이라고 생각합니다.</li>
+      <li>어느정도 다룰정도의 이해가 된뒤, 이미 입력방법과 목표등은 설정해놓았으므로 그떄는 구체적인 알고리즘의 설정과, 실험을 반복할수 있다고 생각합니다.</li>
     </ul>  
     
     
   </li>
 </ul>
+
+## 자료
+제가 공부하면서 찾은 유용하다고 생각되는 자료들입니다.
+<ul>
+  <li><a href="https://tensorflow.blog/%ec%bc%80%eb%9d%bc%ec%8a%a4-%eb%94%a5%eb%9f%ac%eb%8b%9d/">https://tensorflow.blog/%ec%bc%80%eb%9d%bc%ec%8a%a4-%eb%94%a5%eb%9f%ac%eb%8b%9d/</a> 얼마전에 찾은 케라스 라이브러리의 쉬운 가이드입니다.</li>
+  <li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi</a> 인공신경망의 개념과 작동방식에 관해 쉽게 잘 설명한 영상입니다.</li>
+  <li><a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab</a>벡터를 개념만이라도 공부하는것이 나을것이라 판단해 시청했던 동영상입니다.</li>
+</ul>  
