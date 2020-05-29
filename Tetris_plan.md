@@ -70,7 +70,7 @@
         딥러닝 알고리즘에 정보 하나하나를 입력하는 경우 : <a href=https://github.com/benycze/python-tetris>https://github.com/benycze/python-tetris</a> 등의 오픈 소스 테트리스 프로그램에 정보를 알고리즘으로 넘겨주는 코드를 추가한다.
     </li>
     <li>
-        딥러닝 알고리즘에 이미지 전체를 입력하는 경우 : 머신 러닝 알고리즘 중 Deep Q Network 등의 알고리즘은 화면 그대로를 입력받는다. 이럴 경우에는 OpenCV 등 라이브러리를 이용해서 이미지를 코드로 입력한다.
+        딥러닝 알고리즘에 이미지 전체를 입력하는 경우 : 이럴 경우에는 OpenCV 등의라이브러리를 이용해서 이미지를 코드로 입력한다.
     </li>
 </ul>
 
