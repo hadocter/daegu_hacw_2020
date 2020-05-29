@@ -60,7 +60,7 @@
 ## 6.게임에 표시되는 정보의 입력 방법
 <ul>
     <li>
-        딥러닝 알고리즘에 정보 하나하나를 입력하는 경우 : <a href=https://github.com/benycze/python-tetris>https://github.com/benycze/python-tetris</a> 등의 오픈 소스 테트리스 프로그램에 정보를 알고리즘으로 넘겨주는 코드를 추가한다.
+        딥러닝 모델에 정보 하나하나를 입력하는 경우 : <a href=https://github.com/benycze/python-tetris>https://github.com/benycze/python-tetris</a> 등의 오픈 소스 테트리스 프로그램에 정보를 알고리즘으로 넘겨주는 코드를 추가한다.
     </li>
     <li>
         딥러닝 알고리즘에 이미지 전체를 입력하는 경우 : 이럴 경우에는 OpenCV 등의 라이브러리를 이용해서 이미지를 코드로 입력한다.
