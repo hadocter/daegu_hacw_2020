@@ -1,4 +1,5 @@
 # <strong>머신러닝</strong> - 게임플레이 봇 만들기
+<!--Animeloverhachangwoo-->
 
 ## 1. 게임 선정
 <ul>
@@ -6,7 +7,7 @@
 <li>만들어진 모델을 평가할 구체적인 기준이 있을것<dd><small>*게임 내의 점수 등</small></dd></li>
 <big>선택한 게임</big>
 
-<li>Tetris</li><br><img src="https://thumbs.gfycat.com/DecisiveSafeHorsemouse-size_restricted.gif">
+<li>Tetris</li><br><a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://thumbs.gfycat.com/DecisiveSafeHorsemouse-size_restricted.gif"></a>
 <ul><li>조작이 간편함-left, right, drop, rotate</li><li>gameover=조각이 천장에 닿을경우</li><li>score=<a href="https://tetris.wiki/Scoring">테트리스 스코어 시스템</a></li></ul>
 </ul>
 </ul>
@@ -47,13 +48,22 @@
   <ul>
   <dd>
     <li>Deep neural network</li>
-      <li>
-      → 간단한 네트워크는 Keras 등의 소프트웨어를 통해 비교적 간단히 구현이 가능하고, 또한 데이터를 더 많이 주거나 다른방법으로 주고, 알고리즘을 바꾸며 여러 방면의 최적화가 가능하다.
-      </li>
+        <dd>
+            <li>
+            간단한 네트워크는 Keras 등의 소프트웨어를 통해 비교적 간단히 구현이 가능하고, 또한 데이터를 더 많이 주거나 다른방법으로 주고, 알고리즘을 바꾸며 여러 방면의 최적화가 가능하다.
+            </li>
+        </dd>
   </dd>
   </ul>
 </ul>
-   
+
+## 5-1.머신 러닝 알고리즘의 손실 함수() 선정
+<ul>
+    <li>
+        되도록 역할 분담은 최소화하고 필요할 시 그때그때 분담을 하는 것이 협동해서 활동하기에 더욱 좋을 것이라 생각함.
+    </li>
+</ul>
+  
 ## 6.게임에 표시되는 정보의 입력 방법
 <ul>
     <li>
@@ -61,5 +71,19 @@
     </li>
     <li>
         딥러닝 알고리즘에 이미지 전체를 입력하는 경우 : 머신 러닝 알고리즘 중 Deep Q Network 등의 알고리즘은 화면 그대로를 입력받는다. 이럴 경우에는 OpenCV 등 라이브러리를 이용해서 이미지를 코드로 입력한다.
+    </li>
+</ul>
+
+## 7.코드 공유 및 실행
+<ul>
+    <li>
+        중앙 서버에서부터 <b>창우에몽 도와줘ㅓㅓㅓㅓ</b>
+    </li>
+</ul>
+
+## 8.역할 분담
+<ul>
+    <li>
+        되도록 역할 분담은 최소화하고 필요할 시 그때그때 분담을 하는 것이 협동해서 활동하기에 더욱 좋을 것이라 생각함.
     </li>
 </ul>
